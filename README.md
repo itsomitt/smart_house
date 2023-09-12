@@ -1,3 +1,3 @@
-# bluetooth_test2
+# Smart house
 
-A new Flutter project.
+A simple mobile app made to connect and controll a maquette of a smart house
